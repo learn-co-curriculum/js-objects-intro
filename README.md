@@ -3,7 +3,7 @@
 ## Objectives
 + Explain what an object is in JavaScript
 + Explain the parts of a JS object
-+ Create an object in JS
++ Create an object in JS using literal syntax
 
 
 ## Ruby Versus JavaScript
