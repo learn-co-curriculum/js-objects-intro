@@ -3,15 +3,16 @@
 ## Objectives
 + Explain what an object is in JavaScript
 + Explain the parts of a JS object
-+ Create an object in JS
++ Create an object in JS using literal syntax
 
 
 ## Ruby Versus JavaScript
-You've already worked with objects in JavaScript, but so far we've only treated them like hashes. Now it's time to change frame of mind and start to view them as objects with properties and values.
 
-You're also already familiar with objects in Ruby. Both of these frames of reference are going to make dealing with objects in JavaScript that much easier. You already know what an object is, so now it's just about learning how JavaScript handles them.
+You've already worked with objects in JavaScript, but so far we've only treated them like hashes. Now it's time to change frame of mind and start to view them as objects with properties and values, just like the objects we make in Ruby using classes.
 
- Let's create a user class and object in Ruby. The user will have a `name` and `email` attribute:
+This frame of reference from Ruby is going to make dealing with objects in JavaScript that much easier. You already know what an object is, so now it's time to about learning how JavaScript handles them.
+
+Let's create a user class and object in Ruby. The user will have a `name` and `email` attribute:
 
 ```ruby
 class User
@@ -35,9 +36,9 @@ var kevin = {
 }
 ```
 
+## Properties and Data
 
-talk about how the same thing - dealing with properties and data
+How come when we create our `kevin` JavaScript object, it looks just like a hash but in Ruby our `kevin` object looks more like what we typically think of as an object?
 
+Objects in Javascript are a lot more versatile than they are in Ruby.  Essentially hashes in Javascript are objects, but they can also have functions attached to them (methods).  In Ruby we think of Objects and Hashes as fundamentally different ideas (technically Hashes in Ruby are objects).  However, in Javascript, we can use objects like Hashes, just as a set of key value pairs, or we can attach functions to them and use them more like we traditionally think of using objects in Ruby.  In Ruby objects contain both data and behavoir and we'll soon learn to use our Javascript objects in the same manner.
 
-
-## Resources
