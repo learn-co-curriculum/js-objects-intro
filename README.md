@@ -40,5 +40,7 @@ var kevin = {
 
 How come when we create our `kevin` JavaScript object, it looks just like a hash but in Ruby our `kevin` object looks more like what we typically think of as an object?
 
-Objects in Javascript are a lot more versatile than they are in Ruby.  Essentially hashes in Javascript are objects, but they can also have functions attached to them (methods).  In Ruby we think of Objects and Hashes as fundamentally different ideas (technically Hashes in Ruby are objects).  However, in Javascript, we can use objects like Hashes, just as a set of key value pairs, or we can attach functions to them and use them more like we traditionally think of using objects in Ruby.  In Ruby objects contain both data and behavoir and we'll soon learn to use our Javascript objects in the same manner.
+Objects in Javascript are a lot more versatile than they are in Ruby.  Essentially hashes in Javascript are objects, but they can also have functions attached to them (methods).  In Ruby we think of Objects and Hashes as fundamentally different ideas (technically Hashes in Ruby are objects).  However, in Javascript, we can use objects like Hashes, just as a set of key value pairs, or we can attach functions to them and use them more like we traditionally think of using objects in Ruby.  In Ruby objects contain both data and behavior and we'll soon learn to use our Javascript objects in the same manner.
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-objects-intro'>Object Oriented Javascript</a> on Learn.co and start learning to code for free.</p>
