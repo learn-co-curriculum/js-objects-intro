@@ -10,7 +10,7 @@
 
 You've already worked with objects in JavaScript, but so far we've only treated them like hashes. Now it's time to change frame of mind and start to view them as objects with properties and values, just like the objects we make in Ruby using classes.
 
-This frame of reference from Ruby is going to make dealing with objects in JavaScript that much easier. You already know what an object is, so now it's time to learnhow JavaScript handles them.
+This frame of reference from Ruby is going to make dealing with objects in JavaScript that much easier. You already know what an object is, so now it's time to learn how JavaScript handles them.
 
 Let's create a user class and object in Ruby. The user will have a `name` and `email` attribute:
 
